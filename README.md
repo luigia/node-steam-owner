@@ -2,7 +2,7 @@
 Automatically accept trade offers sent from a single Steam ID
 
 [![Issues](https://img.shields.io/codeclimate/issues/luigia/node-steam-owner)](https://github.com/luigia/node-steam-owner/issues)
-[![Size](https://img.shields.io/github/size/luigia/node-steam-owner/owner-bot.js)
+[![Size](https://img.shields.io/github/size/luigia/node-steam-owner/owner-bot.js)](https://github.com/luigia/node-steam-owner/blob/master/owner-bot.js)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/luigia/node-steam-owner/blob/master/LICENSE)
 
 Written in Node.js to solve the problem of having to manually go back and forth between multiple Steam accounts to move items. The bot will accept any trade offer sent by a specified Steam user, accept gift offers and decline those that don't offer any items.
