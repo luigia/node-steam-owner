@@ -1,7 +1,7 @@
 # Node Steam Owner
 Automatically accept trade offers sent from a single Steam ID
 
-[![Issues](https://img.shields.io/codeclimate/issues/luigia/node-steam-owner)](https://github.com/luigia/node-steam-owner/issues)
+[![Issues](https://img.shields.io/github/issues/luigia/node-steam-owner)](https://github.com/luigia/node-steam-owner/issues)
 [![Size](https://img.shields.io/github/size/luigia/node-steam-owner/owner-bot.js)](https://github.com/luigia/node-steam-owner/blob/master/owner-bot.js)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/luigia/node-steam-owner/blob/master/LICENSE)
 
