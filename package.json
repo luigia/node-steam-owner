@@ -1,0 +1,27 @@
+{
+  "name": "node-steam-owner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "owner-bot.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "steam-totp": "^2.1.0",
+    "steam-tradeoffer-manager": "^2.10.0",
+    "steamcommunity": "^3.40.0",
+    "steam-user": "^4.12.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luigia/node-steam-owner"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luigia/node-steam-owner/issues"
+  },
+  "homepage": "https://github.com/luigia/node-steam-owner#readme"
+}
