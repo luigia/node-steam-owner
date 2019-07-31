@@ -157,12 +157,12 @@ manager.on("sentOfferChanged", (offer, oldState) => {
       offer.id
     } from ${offer.partner.getSteamID64()} is now ${steamManager.ETradeOfferState[
       offer.state
-    ].toLowerCase()})`
+    ].toLowerCase()}`
   );
   console.log(
     `Sent offer #${offer.id} from ${offer.partner.getSteamID64()} is now ${
       steamManager.ETradeOfferState[offer.state]
-    })`
+    }`
   );
 });
 
